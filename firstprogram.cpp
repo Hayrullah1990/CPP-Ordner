@@ -5,7 +5,9 @@
 
 int main(){
 
-std::cout<<"Hello 4"<<std::endl;
+std::string name = "Hallo";
+
+std::cout<<name<<std::endl;
 
 
     return 0;
