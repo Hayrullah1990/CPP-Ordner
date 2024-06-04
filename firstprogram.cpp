@@ -5,9 +5,9 @@
 
 int main(){
 
-std::string name = "Hallo";
+std::string greet = "Hallo";
 
-std::cout<<name<<std::endl;
+std::cout<<greet<<std::endl;
 
 
     return 0;
